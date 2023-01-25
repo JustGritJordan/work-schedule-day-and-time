@@ -18,4 +18,4 @@ Liscense.MIT
 
 Github - https://github.com/JustGritJordan/work-schedule-day-and-time
 
-Website -
+Website - https://justgritjordan.github.io/work-schedule-day-and-time/
